@@ -24,6 +24,4 @@ Tipos de dados diferentes (ex.: float para cálculos com decimais);
 
 Funções próprias para cada operação;
 
-Tratamento de erros (ex.: divisão por zero);
-
 Interface mais amigável no terminal.
