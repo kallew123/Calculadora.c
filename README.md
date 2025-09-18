@@ -25,3 +25,7 @@ Tipos de dados diferentes (ex.: float para cálculos com decimais);
 Funções próprias para cada operação;
 
 Interface mais amigável no terminal.
+
+# ✨ Lembre-se 
+Este projeto não é estático: conforme eu for aprendendo mais recursos de C e programação em geral, vou atualizando o código.
+A ideia é transformar essa calculadora em um “diário de aprendizado”, registrando minha evolução como programador.
