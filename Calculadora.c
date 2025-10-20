@@ -48,5 +48,10 @@ int main(void)
     }else{
         printf("O numero selecionado nao faz parte das operacoes!");
     }
-    
+        
+    printf("Pressione Enter para sair...");
+    getchar();
+    getchar();
+    return 0;
+
 }
