@@ -1,31 +1,42 @@
-# Calculadora em C 🧮
+# 🧮 Calculadora em C
 
-Este é meu primeiro projeto em C: uma calculadora simples feita totalmente por mim.
+Este é o meu primeiro projeto em C — uma calculadora simples que iniciei quando comecei a aprender programação.  
 Ela realiza as quatro operações básicas da matemática:
 
-➕ Adição
-
-➖ Subtração
-
-✖️ Multiplicação
-
+➕ Adição  
+➖ Subtração  
+✖️ Multiplicação  
 ➗ Divisão
 
-Atualmente, a calculadora funciona apenas com inteiros (int) e utiliza estruturas condicionais (if/else) para controlar as operações.
+Inicialmente, a calculadora funcionava apenas com inteiros (`int`) e utilizava condicionais (`if/else`) para controlar as operações.  
+Com o tempo, passei a melhorar o código conforme fui aprendendo novos conceitos.
+
+---
 
 # 🚀 Objetivo do projeto
 
-Minha ideia é usar esta calculadora como um caderno de aprendizado.
-Conforme eu for aprendendo novos conceitos de programação, pretendo atualizar o código com:
+Minha ideia é usar esta calculadora como um **caderno de aprendizado**.  
+Sempre que eu aprender algo novo em C, volto ao projeto para atualizar e aprimorar o código.
 
-Estruturas de repetição (for, while, do while);
+### ✔️ Melhorias já implementadas
+- Uso de **funções** separadas para cada operação  
+- Suporte a **números float**  
+- Menu interativo com **laços de repetição (do/while)**  
+- Tratamento básico de erros (ex.: divisão por zero)  
+- Código mais organizado e legível  
 
-Tipos de dados diferentes (ex.: float para cálculos com decimais);
+### 📌 Melhorias planejadas
+- Estruturas de repetição adicionais em outras partes do código (`for`, `while`)  
+- Modularização (separar o código em vários arquivos `.c` e `.h`)  
+- Interface mais amigável no terminal  
+- Persistência com arquivos  
+- Tratamento melhor de entradas inválidas  
+- Testes simples de funcionamento
+- Mais operações
 
-Funções próprias para cada operação;
+---
 
-Interface mais amigável no terminal.
+# ✨ Lembre-se
 
-# ✨ Lembre-se 
-Este projeto não é estático: conforme eu for aprendendo mais recursos de C e programação em geral, vou atualizando o código.
-A ideia é transformar essa calculadora em um “diário de aprendizado”, registrando minha evolução como programador.
+Este projeto não é estático: ele evolui junto com o meu aprendizado.  
+A ideia é transformar essa calculadora em um **diário de evolução**, registrando tudo o que estou aprendendo enquanto estudo programação em C.  
