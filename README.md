@@ -40,3 +40,10 @@ Sempre que eu aprender algo novo em C, volto ao projeto para atualizar e aprimor
 
 Este projeto não é estático: ele evolui junto com o meu aprendizado.  
 A ideia é transformar essa calculadora em um **diário de evolução**, registrando tudo o que estou aprendendo enquanto estudo programação em C.  
+
+---
+
+## 👨‍💻 Desenvolvido por
+- Kallew123
+
+---
